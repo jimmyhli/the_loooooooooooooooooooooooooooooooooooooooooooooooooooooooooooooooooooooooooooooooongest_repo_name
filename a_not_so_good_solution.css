@@ -1,0 +1,7 @@
+// Icon on the left is still incorrectly scaled
+
+.target_element {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
